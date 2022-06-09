@@ -73,7 +73,7 @@ Ahora comprobamos que el proceso ha concluido correctamente, vamos a nuestro usu
   
 ![11](https://github.com/cosmetorandellborras/DespliegueProyecto/blob/main/11.png)
  
-[dockerhub](https://hub.docker.com/r/trui20/servicioshogar)
+[dockerhub trui20/servicioshogar](https://hub.docker.com/r/trui20/servicioshogar)
   
 Podemos hacer un docker pull del contenedor y ejecutarlo en cualquier equipo
   
